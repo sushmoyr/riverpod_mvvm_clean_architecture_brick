@@ -22,7 +22,7 @@ environment:
 #  * a list of values (enums only)
 vars:
   complete:
-    type: bool
+    type: boolean
     description: Should generate complete project
     default: false
     prompt: Do you want to generate the complete project?
